@@ -133,7 +133,7 @@ Can aid regulatory teams in flagging suspicious behavior across wallets.
 Contains model predictions with timestamps, anomaly scores, and classifications.
 
 📊 Autoencoder Visualization
-Shows high reconstruction error as an anomaly signal.
+Shows high reconstruction error as an anomaly signal. 
 
 🛠️ Technologies Used
 Tool	Purpose
