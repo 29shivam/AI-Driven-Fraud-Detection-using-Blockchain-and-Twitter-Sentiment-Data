@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py,cover
+.hypothesis/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large data files
+*.csv
+*.h5
+*.pth
+*.pt
+*.bin
+*.data
+*.index
+
+# Jupyter notebooks
+.ipynb_checkpoints/
