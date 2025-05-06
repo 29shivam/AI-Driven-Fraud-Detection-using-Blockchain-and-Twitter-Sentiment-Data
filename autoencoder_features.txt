@@ -1,0 +1,5 @@
+avg_sentiment
+tweet_count
+avg_gas_used
+total_value
+txn_count
